@@ -5,7 +5,7 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/shades_of_life_)
 
 <br />
-I am a Data Scientist x Full stack dev. Currently working on <b>machine learning, deep learning, a wide range of LLM's and and AI tools</b> to solve real world business problems and automating things on the go. 
+I am a Full stack dev x Machine Learning Engineer. Currently working on <b>machine learning, deep learning, a wide range of LLM's and and AI tools</b> to solve real world business problems and automating things on the go. 
 
 Open to collaborations, contributions, suggestions on any ideas you have!
 
