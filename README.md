@@ -1,7 +1,7 @@
 ### Hello 👋🏻, this is Ayush
 
-[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayusharma1108@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayusharma1108/)
+[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayusharma.dev11@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayusharmadev11/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/shades_of_life_)
 
 <br />
